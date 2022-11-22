@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 10.5vh;
+    background-color: #008dc0;
+    display: flex;
+    position:fixed;
+    margin-top: -10.5vh;
+}
+
+main{
+  margin-top: 10.5vh;
+}
+
+.logo img{
+    width: 20vw;
+    height:9vh;
+    border-radius: 50%;
+    margin-top: 0.7vh;
+    margin-left: 2vw;
+}
+
+#divBusca{
+    border-radius: 10px 10px;
+    background-color:#ffffff;
+    border:solid 3px #000000;
+    width:60vw;
+    height:4vh;
+    margin-top: 2.8vh;
+    margin-left: 10vw;
+    display: flex;
+  }
+
+  #txtBusca{
+    display: flex;
+    background-color:transparent;
+    padding-left: 2%;
+    font-size: 1.1rem;
+    border:none;
+    height:4vh;
+    width:48vw;
+    color: #000000;
+  }
+
+  #imgbusca{ 
+    display: flex;
+    height:4vh;
+    width: 11vw;
+    background-color:transparent;
+    margin-right: 4vw;
+    border:none;
+  }
+
+  #imgbusca img{
+    height:3vh;
+    width: 20vw;
+   margin-top: 0.5vh;
+  }
+
+  #fundo{
+    height: 20vh;
+    width: 100%;
+    background-color: #006db2;
+  }
+
+  .letra{
+    color: #fff;
+  }
+
+  .login{
+    padding-top: 1vh;
+    text-align: center;
+  }
+
+  #entrar{
+    margin-left: 15vw;
+    margin-top: 3vh;
+    border-radius: 15px 15px;
+    width:30vw;
+    height: 5.5vh;
+    font-size: 1.5rem;
+    color: #fff;
+    background-color: #000000;
+    border: none;
+  }
+
+  #criar{
+    margin-left: 10vw;
+    border-radius: 15px 15px;
+    width:30vw;
+    height: 5.5vh;
+    font-size: 1.5rem;
+    color: #fff;
+    background-color: #000000;
+    border: none;
+  }
+
+  body{
+    background-color: #00569d;
+  }
+  #corpo{
+    display: flex;
+    width: 100%;
+    height:17vh;
+  }
+
+  #viagens{
+    margin-left: 4.5vw;
+    width: 27vw;
+    text-align: center;
+    height: 16vh;
+  }
+  #grupos{
+    margin-left: 4.5vw;
+    width: 27vw;
+    text-align: center;
+    height: 16vh;
+  }
+
+  #hoteis img{
+    margin-top: -1.7vh;
+  }
+  #hoteis{
+    margin-left: 4.5vw;
+    width: 27vw;
+    text-align: center;
+    height: 16vh;
+  }
+
+  #destaque{
+    margin-top: 1vh;
+    width: 35vw;
+    height: 21vh;
+    margin-left:32vw;
+    text-align: center;
+  }
+
+  #perto{
+    padding-top: 5vh;
+    text-align: center;
+  }
+
+  #distancia{
+    margin-top: 2vh;
+  }
+
+  #distancia img{
+  border: solid 2px rgb(0, 0, 0);
+  border-radius: 15px 15px;
+  }
+
+  .rodape{
+    margin-top: 5vh;
+    width:100%;
+    height:2vh;
+    background-color: #86beda;
+  }
+  .rodape2{
+    width:100%;
+    height:5vh;
+    background-color: #3e77b6;
+  }

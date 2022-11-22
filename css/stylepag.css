@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: #00569d;
+}
+
+#inicio{
+    margin-top: 3vh;
+    width: 27vw;
+    text-align: center;
+    height: 16vh;
+    margin-left:37vw;
+}
+#viagens{
+    margin-top: 2vh;
+    width: 27vw;
+    text-align: center;
+    height: 16vh;
+    margin-left:37vw;
+  }
+  #grupos{
+    margin-top: 2vh;
+    width: 27vw;
+    text-align: center;
+    height: 16vh;
+    margin-left:37vw;
+  }
+
+  #hoteis{
+    margin-top: 2vh;
+    width: 27vw;
+    text-align: center;
+    height: 16vh;
+    margin-left:37vw;
+  }
+
+  #hoteis img{
+    margin-top: -1.7vh;
+  }
+
+  #destaque{
+    margin-top: 2vh;
+    width: 35vw;
+    height: 21vh;
+    margin-left:32vw;
+    text-align: center;
+  }
